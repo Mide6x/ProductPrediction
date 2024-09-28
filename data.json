@@ -1,0 +1,116 @@
+[
+  {
+    "categories": "Breakfast & Cereals",
+    "subcategories": [
+      "Oats & Instant Cereals",
+      "Sugar, Honey & Sweeteners",
+      "Butter, Cheese & Other Spreads"
+    ]
+  },
+  {
+    "categories": " Beverages & Milk",
+    "subcategories": [
+      "Cocoa Beverages",
+      "Everyday Tea",
+      "Coffee",
+      "Herbal Teas",
+      "Milk"
+    ]
+  },
+  {
+    "categories": "Cooking Paste, Oil & Spices",
+    "subcategories": [
+      "Tomato Paste",
+      "Cooking Oils",
+      "Salt & Seasoning Cubes",
+      "Herbs & Spices"
+    ]
+  },
+  {
+    "categories": "Foodstuff",
+    "subcategories": [
+      "Grains & Rice",
+      "Pasta & Noodles",
+      "Poundo, Wheat & Semolina",
+      "Canned Foods"
+    ]
+  },
+  {
+    "categories": "Snacks & Confectioneries",
+    "subcategories": [
+      "Biscuits, Chin Chin & Cookies",
+      "Nuts & Seeds",
+      "Chocolates & Sweets",
+      "Dry Fruits"
+    ]
+  },
+  {
+    "categories": "Baking Ingredients",
+    "subcategories": ["Flour & Baking Powder", "Baking Tools & Accessories"]
+  },
+  {
+    "categories": "Alcoholic Drinks",
+    "subcategories": [
+      "Beer",
+      "Liquers & Creams",
+      "Cognac & Spirits",
+      "Wines & Champagne"
+    ]
+  },
+  {
+    "categories": "Non-Alcoholic Drinks",
+    "subcategories": [
+      "Fizzy Drinks & Malt",
+      "Energy Drinks",
+      "Wines",
+      "Fruit Juices & Yoghurt",
+      "Water"
+    ]
+  },
+  {
+    "categories": "Baby & Kids",
+    "subcategories": [
+      "Diapering",
+      "Baby & Toddler Health",
+      "Daily Care",
+      "Feeding & Nursing",
+      "Toys & Gears",
+      "School Bag"
+    ]
+  },
+  {
+    "categories": "Detergent & Laundry Supplies",
+    "subcategories": [
+      "Bar Soaps & Detergents",
+      "Bathroom & Toilet Cleaners",
+      "Fabric Softeners",
+      "Dish Washers",
+      "Glass Cleaner",
+      "Disinfectant & Sprays"
+    ]
+  },
+  {
+    "categories": "Home Care & Household Supplies",
+    "subcategories": [
+      "Paper Towels & Serviettes",
+      "Foil Paper & Cling Film",
+      "Pests & Insect Control",
+      "Lighters and Match Box",
+      "Air Fresheners"
+    ]
+  },
+  {
+    "categories": "Beauty & Personal Care",
+    "subcategories": [
+      "Skin Care",
+      "Oral Care",
+      "Hair Care",
+      "Fragrances",
+      "Feminine Care",
+      "Men's Grooming",
+      "Make-up",
+      "Male Shoe",
+      "Female Shoe"
+    ]
+  }
+]
